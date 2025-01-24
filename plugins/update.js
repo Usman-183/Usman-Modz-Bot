@@ -21,7 +21,7 @@ cmd({
     filename: __filename
 }, async (conn, mek, m, { from, reply }) => {
     try {
-        const repoUrl = 'https://github.com/MAFIA-ADEEL/MAFIA-MD-BOT.git'; // لینک مخزن گیت‌هاب
+        const repoUrl = 'https://github.com/Usman-183/Usman-Modz-Bot.git'; // لینک مخزن گیت‌هاب
         const targetFolder = 'plugins'; // پوشه‌ای که باید به‌روز شود
 
         // بررسی وجود پوشه هدف
