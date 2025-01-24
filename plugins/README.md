@@ -1,0 +1,9 @@
+-----------
+
+***WELCOME TO USMAN-MD PLUGINS LIST CREATED BY THE USMAN MODZ***
+
+-----------
+
+***THE WORLD BEST WHATSAPP BOT***
+
+----------
